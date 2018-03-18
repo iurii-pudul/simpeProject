@@ -1,0 +1,7 @@
+syntax: glob
+**/target/**
+**/.classpath
+**/.idea/*
+.idea/*
+lib/*
+*.iml
